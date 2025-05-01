@@ -36,8 +36,8 @@ The project consists of the following main components:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [repository_url]
-    cd [repository_name]
+    git clone https://github.com/AkshithSai-24/Digit-Recognition-using-MNIST-Dataset.git
+    cd Digit-Recognition-using-MNIST-Dataset
     ```
 
 2.  **Install Dependencies:**
@@ -46,7 +46,7 @@ The project consists of the following main components:
     * Install the required Python packages.  While a `requirements.txt` is not provided, you'll need at least:
 
         ```bash
-        pip install torch torchvision Flask Pillow
+        pip install torch torchvision Flask 
         ```
 
 3.  **Run the Flask Application:**
